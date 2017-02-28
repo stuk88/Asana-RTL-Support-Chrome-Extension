@@ -1,0 +1,7 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+.react-mount-node .taskName-input,.react-mount-node .SingleTaskTitleRow-taskName .autogrowTextarea-input, .react-mount-node .SingleTaskTitleRow-taskName .autogrowTextarea-shadow, .ql-editor {
+  unicode-bidi: plaintext;
+  /*text-align: left;*/
+}
