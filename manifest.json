@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "manifest_version": 2,
   "description": "This extension makes the text in Asana RTL'ed but still align left for english readability support. So now if you write mixed text, the text wont get all missordered.",
-  "homepage_url": "http://webbo.co.il",
+  "homepage_url": "https://github.com/stuk88/Asana-RTL-Support-Chrome-Extension",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
